@@ -1,0 +1,24 @@
+{
+  "name": "jekyll-bootstrap-theme",
+  "version": "1",
+  "description": "add by Simon Yost",
+  "main": "",
+  "scripts": {
+    "build": "node build/build.js",
+    "dev": "node build/dev-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonyost/jekyll-bootstrap-theme"
+  },
+  "author": "Simon Yost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonyost/jekyll-bootstrap-theme/issues"
+  },
+  "homepage": "https://github.com/simonyost/jekyll-bootstrap-theme",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
